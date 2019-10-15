@@ -1,5 +1,5 @@
 {
   "employees": [
-    { "id": 1, "fullName": "test", "designation": "UI Designer", "title": "UI/UX" },
+    { "id": 1, "fullName": "test", "designation": "UI Designer", "title": "UI/UX" }
   ]
 }
