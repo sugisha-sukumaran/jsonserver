@@ -1,5 +1,7 @@
 {
   "employees": [
-    { "id": 1, "fullName": "test", "designation": "UI Designer", "department": "UI/UX" }
+    { "id": 1, "fullName": "test", "designation": "UI Designer", "department": "UI/UX" },
+    { "id": 2, "fullName": "John Paul", "designation": "QA Engineer", "department": "QA" },
+    { "id": 3, "fullName": "Alfred Shawn", "designation": "Architect", "department": "Development" }
   ]
 }
